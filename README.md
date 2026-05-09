@@ -1,3 +1,4 @@
+video link: https://drive.google.com/file/d/1jQ7b6BBySV5mjXE9w-UQAs0tUGsiS06W/view?usp=sharing
 # LuxeStore — Complete Laravel eCommerce
 
 ## Test Credentials
